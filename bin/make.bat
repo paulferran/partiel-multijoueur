@@ -1,2 +1,1 @@
-cd ../..
-SolutionGen.exe -make ExamMultijoueur
+SolutionGen.exe -make ..\
