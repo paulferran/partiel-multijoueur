@@ -1,0 +1,26 @@
+{
+    "projects": {
+        "client": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "0043130E-119E-3E48-17A7-242250DE4053",
+            "lib": false,
+            "pch": true,
+            "vcpkg": true,
+            "window": true
+        },
+        "server": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "4E2013E2-3E81-5DA5-2B24-6A117E783768",
+            "lib": false,
+            "pch": true,
+            "vcpkg": true,
+            "window": true
+        }
+    },
+    "solution_guid": "4CFA5125-3621-51E3-00ED-059438403C86",
+    "solution_name": "ExamMultijoueur",
+    "startup_project": "client",
+    "version": "1.17.3"
+}
